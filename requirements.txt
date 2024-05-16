@@ -1,1 +1,8 @@
-fastapi[all]
+ultralytics
+torch
+Pillow
+numpy
+fastapi
+pydantic
+googletrans==4.0.0-rc1
+uvicorn
